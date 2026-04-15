@@ -11,6 +11,7 @@ Ce dossier rassemble des notes simples sur la façon de garder un site WordPress
 | `que-documenter-des-le-debut-sur-un-petit-site-wordpress.md` | Noter l'essentiel dès le départ pour éviter les oublis coûteux |
 | `comment-eviter-d-empiler-les-plugins-sur-un-petit-site-wordpress.md` | Garder une pile de plugins proportionnée au site et à son usage réel |
 | `comment-relire-un-site-wordpress-avant-une-mise-a-jour-importante.md` | Vérifier un site avant une mise à jour sans transformer cela en procédure lourde |
+| `comment-lancer-un-petit-site-wordpress-sans-se-disperser-des-le-depart.md` | Réduire les premières décisions à un cadre de départ plus lisible et publiable |
 
 ## 🎯 À qui cela peut servir
 

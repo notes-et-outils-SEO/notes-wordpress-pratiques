@@ -12,6 +12,7 @@ Ce dossier rassemble des notes simples sur la façon de garder un site WordPress
 | `comment-eviter-d-empiler-les-plugins-sur-un-petit-site-wordpress.md` | Garder une pile de plugins proportionnée au site et à son usage réel |
 | `comment-relire-un-site-wordpress-avant-une-mise-a-jour-importante.md` | Vérifier un site avant une mise à jour sans transformer cela en procédure lourde |
 | `comment-lancer-un-petit-site-wordpress-sans-se-disperser-des-le-depart.md` | Réduire les premières décisions à un cadre de départ plus lisible et publiable |
+| `faut-il-lancer-son-site-wordpress-seul-ou-avec-un-cadre-guide.md` | Comparer l'autonomie pure et un accompagnement guidé pour lancer un site plus sereinement |
 
 ## 🎯 À qui cela peut servir
 
